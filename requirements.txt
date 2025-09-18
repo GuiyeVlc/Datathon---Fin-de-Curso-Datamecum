@@ -1,11 +1,17 @@
-shiny==1.4.0
-shinywidgets
-shinylive
-pandas
-numpy
-scikit-learn
-matplotlib
-seaborn
-openpyxl
-xlrd
-
+shiny             # Framework principal para apps interactivas en Python
+shinywidgets      # Widgets adicionales para Shiny (sliders, selects, etc.)
+pandas            # Manejo de datos en tablas (DataFrames)
+numpy             # Cálculo numérico y arrays
+matplotlib        # Gráficos básicos y visualización
+seaborn           # Visualizaciones estadísticas más avanzadas
+ipython           # Para funciones como IPython.display (ej. mostrar HTML)
+scipy             # Funciones estadísticas (ej. skew, PowerTransformer)
+scikit-learn      # Modelos ML: LinearReg, RandomForest, HistGradBoost, métricas, etc.
+xgboost           # Modelo XGBRegressor
+joblib            # Guardar y cargar modelos entrenados
+lightgbm          # Modelo LGBMRegressor
+catboost          # Modelo CatBoostRegressor
+plotly            # Gráficos interactivos
+dash              # Framework para dashboards interactivos
+flask             # Framework web ligero (usado por Dash)
+flask-caching    # Caché para Flask (usado por Dash)
