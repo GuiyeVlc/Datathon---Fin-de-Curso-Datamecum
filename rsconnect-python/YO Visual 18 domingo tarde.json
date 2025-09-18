@@ -1,0 +1,12 @@
+{
+    "https://api.shinyapps.io": {
+        "server_url": "https://api.shinyapps.io",
+        "filename": "/home/guiye/Escritorio/001-PDS00100 Datathon/Proyecto Datos/YO Visual 18 domingo tarde",
+        "app_url": "https://grenart2121.shinyapps.io/datathonapp/",
+        "app_id": "15499135",
+        "app_guid": null,
+        "title": "DatathonApp",
+        "app_mode": "python-shiny",
+        "app_store_version": 1
+    }
+}

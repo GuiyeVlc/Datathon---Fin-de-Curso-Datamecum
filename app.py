@@ -218,7 +218,7 @@ app_ui = ui.page_fillable(
     # Título general
     ui.div(
         ui.h2(
-            "Programa Experto en Data Science - Datamecum/ Ejercicio fin de Curso/ Guille Renart",
+            "Ejercicio fin de Curso Datamecum / Guille Renart - Sept'25 / Programa Experto en Data Science",
             style=(
                 "color: orange; "
                 "text-align: center; "
@@ -676,7 +676,12 @@ def server(input, output, session):
                     donde se irán generando informaciones y gráficos de nuestro conjunto 
                     de entrenamiento.  
                     En la última parte de esta secuencia (pestaña 7), se ofrece el 
-                    <strong>análisis del Modelo generado</strong>.
+                    <strong>análisis del Modelo generado</strong> hemos elegido XGBRegressor.
+                </p>
+
+                <p>
+                    A modo de comparativa se ha añadido la pestaña <span style="color: orange;">Comparador de Modelos </span>.  
+                    En ella se muestran resultados de modelos estudiados en anteriores versiones, con una mínima descripción.
                 </p>
 
                 <p>
