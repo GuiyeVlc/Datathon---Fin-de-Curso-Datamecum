@@ -12,6 +12,4 @@ joblib            # Guardar y cargar modelos entrenados
 lightgbm          # Modelo LGBMRegressor
 catboost          # Modelo CatBoostRegressor
 plotly            # Gráficos interactivos
-dash              # Framework para dashboards interactivos
-flask             # Framework web ligero (usado por Dash)
-flask-caching    # Caché para Flask (usado por Dash)
+
