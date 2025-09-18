@@ -1,0 +1,11 @@
+shiny==1.4.0
+shinywidgets
+shinylive
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+openpyxl
+xlrd
+
